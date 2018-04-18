@@ -1,5 +1,5 @@
 {
-  "name": "serj1chen/nova-poshta-sdk-php",
+  "name": "notnull-ua/nova-poshta-sdk-php",
   "description": "SDK для Новой Почты",
   "keywords": [
     "novaposhta",
@@ -14,6 +14,11 @@
       "name": "Chenakal Sergii",
       "homepage": "https://github.com/serj1chen",
       "email": "s.chenakal@gmail.com"
+    },
+    {
+      "name": "Tychyna Vladyslav",
+      "homepage": "https://github.com/notnull-ua",
+      "email": "tychyna.v@gmail.com"
     }
   ],
   "require": {
